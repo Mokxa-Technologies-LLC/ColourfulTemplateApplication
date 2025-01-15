@@ -1590,7 +1590,7 @@
                 "fav_icon": "",
                 "mobileViewDisabled": "",
                 "dx8navLinkIcon": "#EA9ABC",
-                "horizontal_menu": "horizontal_inline",
+                "horizontal_menu": "true",
                 "profile": "",
                 "dx8-dark-sidebar-headerFontColor": "#3F3F46",
                 "homeAttractBanner": "",
