@@ -1624,7 +1624,7 @@
                 "shortcut": [],
                 "usingLocalFonts": "true",
                 "fontControl": "",
-                "dx8navActiveLinkBackground": "#EB952D",
+                "dx8navActiveLinkBackground": "#44B2D6",
                 "dx8-dark-sidebar-navLinkBackground": "#3F3F46",
                 "dx8fontColor": "#094074",
                 "dx8navLinkBackground": "#BCE3F0",
@@ -1642,7 +1642,7 @@
                 "darkMode": "",
                 "dx8-dark-sidebar-navActiveLinkBackground": "#5F5F63",
                 "inbox": "current",
-                "dx8navActiveLinkColor": "#EB952D"
+                "dx8navActiveLinkColor": "#44B2D6"
             }
         },
         "permission": {
