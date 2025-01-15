@@ -1573,7 +1573,7 @@
         "theme": {
             "className": "org.joget.plugin.enterprise.Dx8ColorAdminTheme",
             "properties": {
-                "dx8navBadge": "#BCE3F0",
+                "dx8navBadge": "#44B2D6",
                 "css": "",
                 "loginBackground": "",
                 "disablePush": "",
