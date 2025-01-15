@@ -3,22 +3,104 @@
     "categories": [
         {
             "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [{
-                "className": "org.joget.plugin.enterprise.DashboardMenu",
-                "properties": {
-                    "mode": "plugins",
-                    "userviewCacheDuration": "20",
-                    "customHeader": "",
-                    "defaultPortletHeight": "250",
-                    "userviewCacheScope": "",
-                    "plugins": [],
-                    "customFooter": "",
-                    "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
-                    "id": "5D00C4A9E43D4127CE4BD73557061D0B",
-                    "enableOffline": "",
-                    "customId": "variant_5"
+            "menus": [
+                {
+                    "className": "org.joget.plugin.enterprise.DashboardMenu",
+                    "properties": {
+                        "mode": "plugins",
+                        "userviewCacheDuration": "20",
+                        "customHeader": "",
+                        "defaultPortletHeight": "250",
+                        "userviewCacheScope": "",
+                        "plugins": [],
+                        "customFooter": "",
+                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
+                        "id": "5D00C4A9E43D4127CE4BD73557061D0B",
+                        "enableOffline": "",
+                        "customId": "variant_5"
+                    }
+                },
+                {
+                    "className": "org.joget.plugin.enterprise.DashboardMenu",
+                    "properties": {
+                        "mode": "plugins",
+                        "userviewCacheDuration": "20",
+                        "customHeader": "",
+                        "defaultPortletHeight": "250",
+                        "userviewCacheScope": "",
+                        "plugins": [],
+                        "customFooter": "",
+                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
+                        "id": "58FF59413BA447B3A0E180202BC26D05",
+                        "enableOffline": "",
+                        "customId": "variant_5"
+                    }
+                },
+                {
+                    "className": "org.joget.plugin.enterprise.DashboardMenu",
+                    "properties": {
+                        "mode": "plugins",
+                        "userviewCacheDuration": "20",
+                        "customHeader": "",
+                        "defaultPortletHeight": "250",
+                        "userviewCacheScope": "",
+                        "plugins": [],
+                        "customFooter": "",
+                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
+                        "id": "93452ED118A34D63F9D0D1885043A286",
+                        "enableOffline": "",
+                        "customId": "variant_5"
+                    }
+                },
+                {
+                    "className": "org.joget.plugin.enterprise.DashboardMenu",
+                    "properties": {
+                        "mode": "plugins",
+                        "userviewCacheDuration": "20",
+                        "customHeader": "",
+                        "defaultPortletHeight": "250",
+                        "userviewCacheScope": "",
+                        "plugins": [],
+                        "customFooter": "",
+                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
+                        "id": "3631D8ECAFFA4148EC5816C868CE4E22",
+                        "enableOffline": "",
+                        "customId": "variant_5"
+                    }
+                },
+                {
+                    "className": "org.joget.plugin.enterprise.DashboardMenu",
+                    "properties": {
+                        "mode": "plugins",
+                        "userviewCacheDuration": "20",
+                        "customHeader": "",
+                        "defaultPortletHeight": "250",
+                        "userviewCacheScope": "",
+                        "plugins": [],
+                        "customFooter": "",
+                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
+                        "id": "2D33CAB15D454A6A14B794B24C323DF3",
+                        "enableOffline": "",
+                        "customId": "variant_5"
+                    }
+                },
+                {
+                    "className": "org.joget.plugin.enterprise.DashboardMenu",
+                    "properties": {
+                        "mode": "plugins",
+                        "userviewCacheDuration": "20",
+                        "customHeader": "",
+                        "defaultPortletHeight": "250",
+                        "userviewCacheScope": "",
+                        "plugins": [],
+                        "customFooter": "",
+                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
+                        "id": "19BE3370D9CA433325570F90990C8524",
+                        "enableOffline": "",
+                        "customId": "variant_5"
+                    }
                 }
-            }],
+            ],
             "properties": {
                 "hide": "",
                 "permission": {
@@ -1624,7 +1706,7 @@
                 "shortcut": [],
                 "usingLocalFonts": "true",
                 "fontControl": "",
-                "dx8navActiveLinkBackground": "#094074",
+                "dx8navActiveLinkBackground": "#BCE3F0",
                 "dx8-dark-sidebar-navLinkBackground": "#3F3F46",
                 "dx8fontColor": "#094074",
                 "dx8navLinkBackground": "#BCE3F0",
@@ -1642,7 +1724,7 @@
                 "darkMode": "",
                 "dx8-dark-sidebar-navActiveLinkBackground": "#5F5F63",
                 "inbox": "current",
-                "dx8navActiveLinkColor": "#094074"
+                "dx8navActiveLinkColor": "#EA9ABC"
             }
         },
         "permission": {
